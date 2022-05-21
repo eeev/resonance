@@ -24,5 +24,5 @@ Optional packages:
 - nvidia (graphics card driver)
 ## installation
 Clone this repository, then run:
-`stow --target=${HOME} */`
-This will symlink the git repo to your `~\.config`.
+`stow --target=${HOME} */` in the root of this repo.
+This will symlink the git dotfiles to your `~\.config`.
