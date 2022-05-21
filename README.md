@@ -23,4 +23,6 @@ Optional packages:
 - pulseaudio (audio control)
 - nvidia (graphics card driver)
 ## installation
-Clone this repository and run `.\install.sh` the configuration. This will create a local backup of all config files that are replaced, so that when you choose to `.\uninstall.sh`, the original configuration is restored.
+Clone this repository, then run:
+`stow --target=${HOME} */`
+This will symlink the git repo to your `~\.config`.
