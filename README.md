@@ -10,6 +10,7 @@ However, if you want to use a clean Arch installation, the following packages ar
 - ARandR (monitor/dekstop layout)
 - xfce (terminal emulator)
 - polybar
+- fish
 
 Optional packages:
 - thunar (file manager)
